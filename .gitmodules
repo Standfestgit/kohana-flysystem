@@ -1,0 +1,4 @@
+[submodule "vendor/flysystem"]
+	path = vendor/flysystem
+	url = https://github.com/FrenkyNet/Flysystem.git
+
