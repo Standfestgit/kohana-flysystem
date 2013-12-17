@@ -1,4 +1,4 @@
-kohana-requests
+kohana-flysystem
 ==============
 A __very__ basic integration of [Flysystem](https://github.com/FrenkyNet/Flysystem) into [Kohana](http://kohanaframework.org/) v3.3.
 
