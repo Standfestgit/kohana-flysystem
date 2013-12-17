@@ -1,4 +1,6 @@
 [submodule "vendor/flysystem"]
 	path = vendor/flysystem
 	url = https://github.com/FrenkyNet/Flysystem.git
-
+[submodule "vendor/phpseclib"]
+	path = vendor/phpseclib
+	url = https://github.com/phpseclib/phpseclib.git
